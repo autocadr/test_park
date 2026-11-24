@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">내 차 주차</string>
+    <string name="app_subtitle">야외 고대비 주차 위치 기억기</string>
+    <string name="save_current_location_cta">현재 주차 위치 저장</string>
+    <string name="navigate_to_car_cta">내 차 위치 길찾기</string>
+    <string name="take_pillar_photo_cta">기둥 사진 찍기</string>
+    <string name="retake_pillar_photo_cta">기둥 사진 다시 찍기</string>
+    <string name="clear_parking_cta">출차 완료</string>
+    <string name="save_new_spot_cta">새 위치로 덮어쓰기</string>
+    <string name="history_button_cd">최근 주차 기록 보기</string>
+    <string name="map_selector_cd">기본 지도 앱 선택</string>
+    <string name="empty_state_title">주차된 위치가 아직 없습니다</string>
+    <string name="empty_state_body">주차를 마친 뒤 아래 큰 노란색 버튼을 누르면 현재 GPS 좌표와 층수·구역 메모, 기둥 사진까지 한 번에 저장됩니다.</string>
+    <string name="memo_hint">예: 지하 2층 B구역 14번 기둥</string>
+    <string name="memo_label">층수 / 구역 메모</string>
+    <string name="gps_acquiring">GPS 정밀 위치 수신 중…</string>
+    <string name="gps_locked">GPS 좌표 확보됨</string>
+    <string name="gps_unavailable">GPS 신호 약함 (실내/지하)</string>
+    <string name="permission_location_rationale">현재 주차 위치의 GPS 좌표를 저장하려면 위치 권한이 필요합니다.</string>
+    <string name="permission_camera_rationale">주차 기둥 번호 사진을 촬영하려면 카메라 권한이 필요합니다.</string>
+    <string name="confirm_save_spot">이 위치로 저장하기</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="close">닫기</string>
+</resources>

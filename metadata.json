@@ -1,0 +1,8 @@
+{
+  "name": "내 차 주차",
+  "description": "GPS 좌표와 기둥 사진으로 내 차 주차 위치를 기억하고 도보 길찾기를 안내하는 고대비 주차 위치 저장 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
